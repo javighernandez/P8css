@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* Desarrollado por Javier Gonzalez Hernandez */
+/* El 14/12/18                                */
+body {
+    background-color: #267352;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+}
+header {
+    text-align: left;
+}
+h1 {
+    text-shadow: black 5px 5px;
+    text-transform: uppercase;
+    color: white;
+}
+p {
+    text-align: justify;
+}
+div.div1 {
+    background-color: white;
+    border: black 10px solid;
+    border-radius: 25px;
+    padding: 15px; 
+    margin-right: 20%;
+    margin-left: 20%;
+}
+div.div2 {
+    background-color: #AC5A39;
+    border: #802400 25px solid;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-right: 50%;
+    padding: 10px;
+    color: white;
+}
+div.div3 {
+    background-color: #AC7A39;
+    border: #804800 20px solid;
+    color: white;
+    padding: 7px;
+    margin-left: 45%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;  
+}
+div.div4 {
+    background-color: #004680;
+    color: white;
+    padding: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: #3978AC 10px dashed;
+}
+/* A partir de este momento, tienen la misma estructura los div */
+div.div5 {
+    background-color: #AC5A39;
+    border: #802400 25px solid;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-right: 50%;
+    padding: 10px;
+    color: white;
+}
+div.div6 {
+    background-color: #AC7A39;
+    border: #804800 20px solid;
+    color: white;
+    padding: 7px;
+    margin-left: 45%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;     
+}
+div.div7 {
+    background-color: #004680;
+    color: white;
+    padding: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: #3978AC 10px dashed;
+}
